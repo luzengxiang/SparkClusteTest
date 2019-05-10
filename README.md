@@ -1,4 +1,4 @@
-# SparkClusteTest
+# SparkClusterTest
 Test performance of Spark Cluster
 
 ## Introduction
